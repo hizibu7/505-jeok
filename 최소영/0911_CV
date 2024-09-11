@@ -1,1 +1,10 @@
+## 📝 오늘 공부한 내용
+> OpenCV build과정에서 생긴 error에 대해서 알아보았다. 
 
+## 😲 오늘 깨달은 내용
+opencv, cmake, cuda, tbb 기본 세팅을 끝나고 cmake에서 configure을 마쳤는데, 찾을 수 없는 파일들이 있다고 뜬다. VScode상에서 실행시켜 보았지만 출력창에 warning이 너무 많이 뜬다.ㅠㅠ
+경로를 다시 찾으라고도 하고, 다시 프로그램을 재부팅하라고도 하지만 프로그램 재부팅은 이미 많이 했다. 어떻게 해결해야 되는지 아직도 모르겠다.....
+일단 포기하고 CV 인프런 강의를 들었다. 
+   
+## 📁 참고한 자료 및 사진 첨부
+https://www.inflearn.com/course/opencv-lecture/dashboard
