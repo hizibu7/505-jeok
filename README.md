@@ -18,6 +18,10 @@
 
 <h2> 소모임원 </h2>
 
-|<img src="https://avatars.githubusercontent.com/u/111039206?v=4" width="100"/>|
+|<img src="https://avatars.githubusercontent.com/u/111039206?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/87796634?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/147061193?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/160228065?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/59606659?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/70322775?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/108571492?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/112418368?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/119664259?v=4" width="50"/>|<img src="https://avatars.githubusercontent.com/u/60809568?v=4" width="50"/>|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[장영주](https://github.com/youngju6143/)|[김민아](https://github.com/minahkim03)|[손현빈](https://github.com/SickofU)|[최소영](https://github.com/gitchlthdud)|[김소명](https://github.com/somyonn)|[이건우](https://github.com/2dubu)|[김수진](https://github.com/cowboysj)|[정재윤](https://github.com/Leon-iii)|[권민준](https://github.com/chocoMJ)|[이현빈](https://github.com/2hyunbin)|
+
+|<img src="https://avatars.githubusercontent.com/u/67246681?v=4" width="50"/>|
 |:---:|
-|[장영주](https://github.com/youngju6143/)|
+|[이준호](https://github.com/junstory)|
